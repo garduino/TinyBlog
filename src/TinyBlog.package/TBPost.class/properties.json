@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TinyBlog",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"title",
+		"text",
+		"date",
+		"category",
+		"visible"
+	],
+	"name" : "TBPost",
+	"type" : "normal"
+}
