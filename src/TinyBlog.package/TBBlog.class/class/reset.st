@@ -1,3 +1,5 @@
 accessing
 reset
-	uniqueInstance := nil
+	"uniqueInstance := nil"
+     "self reset"
+     self initializeMongo

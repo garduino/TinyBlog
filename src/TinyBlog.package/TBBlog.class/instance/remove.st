@@ -1,3 +1,4 @@
 initialize-release
 remove
-   posts := OrderedCollection new
+   posts := OrderedCollection new.
+   super remove.

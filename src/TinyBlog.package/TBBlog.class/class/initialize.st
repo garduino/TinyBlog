@@ -1,3 +1,4 @@
 initialize-release
 initialize
-	self reset.
+	"self reset."
+	self initializeMongo.
