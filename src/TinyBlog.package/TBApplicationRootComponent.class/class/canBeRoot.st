@@ -1,0 +1,3 @@
+initializing
+canBeRoot
+   ^ true
