@@ -5,9 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"main"
-	],
-	"name" : "TBApplicationRootComponent",
+	"instvars" : [ ],
+	"name" : "TBHeaderComponent",
 	"type" : "normal"
 }

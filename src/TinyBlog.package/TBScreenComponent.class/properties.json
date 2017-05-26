@@ -6,8 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"main"
+		"header"
 	],
-	"name" : "TBApplicationRootComponent",
+	"name" : "TBScreenComponent",
 	"type" : "normal"
 }
