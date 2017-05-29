@@ -1,4 +1,4 @@
 initialization
 initialize
 	super initialize.
-	main := TBScreenComponent new.
+	main := TBPostsListComponent new.
