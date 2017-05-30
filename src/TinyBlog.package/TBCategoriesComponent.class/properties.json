@@ -1,13 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "TBScreenComponent",
+	"super" : "WAComponent",
 	"category" : "TinyBlog-Components",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"currentCategory"
+		"categories",
+		"postsList"
 	],
-	"name" : "TBPostsListComponent",
+	"name" : "TBCategoriesComponent",
 	"type" : "normal"
 }
