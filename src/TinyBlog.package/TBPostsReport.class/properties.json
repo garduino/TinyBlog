@@ -1,13 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "TBScreenComponent",
+	"super" : "TBSMagritteReport",
 	"category" : "TinyBlog-Components",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"report"
-	],
-	"name" : "TBAdminComponent",
+	"instvars" : [ ],
+	"name" : "TBPostsReport",
 	"type" : "normal"
 }
