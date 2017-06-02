@@ -2,5 +2,5 @@ instance creation
 from: aBlog
    | allBlogs |
    allBlogs := aBlog allBlogPosts.
-	^ self rows: allBlogs description: allBlogs anyOne
-       magritteDescription
+   ^ self rows: allBlogs description: (self filteredDescriptionsFrom:
+       allBlogs anyOne magritteDescription)
