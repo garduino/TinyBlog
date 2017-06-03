@@ -1,3 +1,3 @@
 hooks
 children
-	^ OrderedCollection with: self report
+	 ^ super children copyWith: self report
