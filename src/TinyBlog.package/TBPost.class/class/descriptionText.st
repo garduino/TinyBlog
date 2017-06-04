@@ -1,7 +1,9 @@
 descriptions
 descriptionText
-   <magritteDescription>
+ <magritteDescription>
    ^ MAMemoDescription new
+      label: 'Text';
+      priority: 200;
       accessor: #text;
       beRequired;
       yourself

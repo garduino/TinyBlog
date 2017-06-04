@@ -4,4 +4,4 @@ renderContentOn: html
 	html
 		tbsContainer: [ html heading: 'Blog Admin'.
 			html horizontalRule.
-			html render: self report]
+			html render: self report ]
